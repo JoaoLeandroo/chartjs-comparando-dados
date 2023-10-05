@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 95%;
+    max-width: 900px;
+    height: 500px;
+}
+
+#my-grafic {
+    width: 100%;
+}
