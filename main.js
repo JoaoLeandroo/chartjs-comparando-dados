@@ -11,15 +11,15 @@ new Chart(ctx, {
     datasets: [{
       label: 'Carlos',
       data: vendedor_1,
-      borderWidth: 1
+      borderWidth: 2
     },{
         label: 'Miguel',
         data: vendedor_2,
-        borderWidth: 1
+        borderWidth: 2
     },{
         label: "Lucas",
         data: vendedor_3,
-        borderWidth: 1
+        borderWidth: 2
     }],
   },
   options: {
